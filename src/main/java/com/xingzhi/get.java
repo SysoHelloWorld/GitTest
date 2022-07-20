@@ -13,5 +13,7 @@ public class get {
         System.out.println("hello Xingzhi");
 
         System.out.println("hello Master");
+
+        System.out.println("hello Xingzhi2");
     }
 }
