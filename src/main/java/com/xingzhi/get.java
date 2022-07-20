@@ -11,5 +11,7 @@ public class get {
         System.out.println("hello github!");
 
         System.out.println("hello Xingzhi");
+
+        System.out.println("hello Master");
     }
 }
